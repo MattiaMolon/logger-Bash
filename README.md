@@ -16,3 +16,9 @@ when you build the project you have different options
 * If you want to recorder only simple statistics on the logger just begin to use your commands, instead, if you want to also record their outputs specify it with the option *--output | --o*.
 * The logger is capable to understand complex commands written with ||, &&, () and >. It is capable to divide them in single commands and register the activities of each one of them in the log file.
 * The logger is not designed to work with commands that open different windows or bashes. However, it works with multiple bashes at the same time.
+
+## Group Members
+* [Mattia Molon](https://github.com/MattiaMolon)
+* [Giorgio Segalla](https://github.com/GiorgioSgl)
+* [Leonardo Remondini](https://github.com/leonardoremondini)
+* [Lorenzo Framba](https://github.com/lorenzoFramba)
