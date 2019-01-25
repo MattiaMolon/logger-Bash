@@ -1,6 +1,6 @@
 # logger-Bash
 This is a project made during the second year of university at Trento.<br />
-This consists in a logger that tracks the activities of a bash Linux.<br />
+It consists in a logger that tracks the activities of a bash Linux.<br />
 All those activities are written down in a log file. 
 
 ## How to use it
